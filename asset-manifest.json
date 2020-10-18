@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.698845b9.chunk.css",
-    "main.js": "/static/js/main.d882a04d.chunk.js",
-    "main.js.map": "/static/js/main.d882a04d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
-    "static/css/2.5f1adba5.chunk.css": "/static/css/2.5f1adba5.chunk.css",
-    "static/js/2.850b275a.chunk.js": "/static/js/2.850b275a.chunk.js",
-    "static/js/2.850b275a.chunk.js.map": "/static/js/2.850b275a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70a3a392095194cb2914f5b78b45a27f.js": "/precache-manifest.70a3a392095194cb2914f5b78b45a27f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5f1adba5.chunk.css.map": "/static/css/2.5f1adba5.chunk.css.map",
-    "static/css/main.698845b9.chunk.css.map": "/static/css/main.698845b9.chunk.css.map",
-    "static/js/2.850b275a.chunk.js.LICENSE.txt": "/static/js/2.850b275a.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/drinkology.png": "/static/media/drinkology.17a7c6b1.png",
-    "static/media/pwa-budget.png": "/static/media/pwa-budget.234fc5c7.png"
+    "main.css": "/project-canvas2/static/css/main.698845b9.chunk.css",
+    "main.js": "/project-canvas2/static/js/main.0e05c7d8.chunk.js",
+    "main.js.map": "/project-canvas2/static/js/main.0e05c7d8.chunk.js.map",
+    "runtime-main.js": "/project-canvas2/static/js/runtime-main.d59329c8.js",
+    "runtime-main.js.map": "/project-canvas2/static/js/runtime-main.d59329c8.js.map",
+    "static/css/2.98a17dff.chunk.css": "/project-canvas2/static/css/2.98a17dff.chunk.css",
+    "static/js/2.850b275a.chunk.js": "/project-canvas2/static/js/2.850b275a.chunk.js",
+    "static/js/2.850b275a.chunk.js.map": "/project-canvas2/static/js/2.850b275a.chunk.js.map",
+    "index.html": "/project-canvas2/index.html",
+    "precache-manifest.e12b484d26bac568015763c652bf3907.js": "/project-canvas2/precache-manifest.e12b484d26bac568015763c652bf3907.js",
+    "service-worker.js": "/project-canvas2/service-worker.js",
+    "static/css/2.98a17dff.chunk.css.map": "/project-canvas2/static/css/2.98a17dff.chunk.css.map",
+    "static/css/main.698845b9.chunk.css.map": "/project-canvas2/static/css/main.698845b9.chunk.css.map",
+    "static/js/2.850b275a.chunk.js.LICENSE.txt": "/project-canvas2/static/js/2.850b275a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/project-canvas2/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/drinkology.png": "/project-canvas2/static/media/drinkology.17a7c6b1.png",
+    "static/media/pwa-budget.png": "/project-canvas2/static/media/pwa-budget.234fc5c7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e312f208.js",
-    "static/css/2.5f1adba5.chunk.css",
+    "static/js/runtime-main.d59329c8.js",
+    "static/css/2.98a17dff.chunk.css",
     "static/js/2.850b275a.chunk.js",
     "static/css/main.698845b9.chunk.css",
-    "static/js/main.d882a04d.chunk.js"
+    "static/js/main.0e05c7d8.chunk.js"
   ]
 }
