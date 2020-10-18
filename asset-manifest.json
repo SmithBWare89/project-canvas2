@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.698845b9.chunk.css",
+    "main.js": "/static/js/main.d882a04d.chunk.js",
+    "main.js.map": "/static/js/main.d882a04d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/css/2.5f1adba5.chunk.css": "/static/css/2.5f1adba5.chunk.css",
+    "static/js/2.850b275a.chunk.js": "/static/js/2.850b275a.chunk.js",
+    "static/js/2.850b275a.chunk.js.map": "/static/js/2.850b275a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70a3a392095194cb2914f5b78b45a27f.js": "/precache-manifest.70a3a392095194cb2914f5b78b45a27f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5f1adba5.chunk.css.map": "/static/css/2.5f1adba5.chunk.css.map",
+    "static/css/main.698845b9.chunk.css.map": "/static/css/main.698845b9.chunk.css.map",
+    "static/js/2.850b275a.chunk.js.LICENSE.txt": "/static/js/2.850b275a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/drinkology.png": "/static/media/drinkology.17a7c6b1.png",
+    "static/media/pwa-budget.png": "/static/media/pwa-budget.234fc5c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/css/2.5f1adba5.chunk.css",
+    "static/js/2.850b275a.chunk.js",
+    "static/css/main.698845b9.chunk.css",
+    "static/js/main.d882a04d.chunk.js"
+  ]
+}
